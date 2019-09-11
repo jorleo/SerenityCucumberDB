@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Inicio de sesión" skipped="0" tests="1" time="13.03" timestamp="2019-09-04 07:42:18"><testcase name=": Inicio de sesión Exitoso"><failure message="Error de inicio de sesión!" type="java.lang.AssertionError">Error de inicio de sesión!</failure><system-err>Error de inicio de sesión!&#13;
+com.automation.capacitacion.stepdefinitions.LoginStepdefinitions.iEnterTheApplication(LoginStepdefinitions.java:36)&#13;
+✽.yo ingreso a la aplicación(src/test/resources/features/login.feature:11)&#13;
+</system-err></testcase></testsuite>
